@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726084705533,
+      "tag": "0000_careful_sumo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726084943341,
+      "tag": "0001_broken_black_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726085841957,
+      "tag": "0002_wealthy_prism",
+      "breakpoints": true
+    }
+  ]
+}
