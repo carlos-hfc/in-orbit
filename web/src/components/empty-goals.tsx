@@ -1,7 +1,7 @@
 import { PlusIcon } from "lucide-react"
 
-import letsStartImg from "./assets/lets-start.svg"
-import logoImg from "./assets/logo.svg"
+import letsStartImg from "../assets/lets-start.svg"
+import logoImg from "../assets/logo.svg"
 import { Button } from "./ui/button"
 import { DialogTrigger } from "./ui/dialog"
 
